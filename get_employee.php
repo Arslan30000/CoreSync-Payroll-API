@@ -2,7 +2,7 @@
 header('Content-Type: application/json');
 
 $host = '127.0.0.1';
-$db   = 'payroll_db';
+$db   = 'payroll_api';
 $user = 'root'; 
 $pass = '';    
 
